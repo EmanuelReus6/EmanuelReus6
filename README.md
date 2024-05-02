@@ -3,9 +3,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmanuelReus6&theme=shadow_blue&show_icons=true)
 
-<div>
-  <img src="https://media.tenor.com/eJYDdvw6xxEAAAAd/among-us-amongla.gif)https://media.tenor.com/eJYDdvw6xxEAAAAd/among-us-amongla.gif" width="465" height="200"/>
-</div>
+
 
 
 
